@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql.salearnings.tech
+MYSQL_HOST: mysql-{{ ENVIRONMENT }}.salearnings.tech
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app

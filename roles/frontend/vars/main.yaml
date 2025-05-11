@@ -1,3 +1,3 @@
-BACKEND_HOST: backend.salearnings.tech
+BACKEND_HOST: backend.app-{{ENVIRONMENT}}.salearnings.tech
 APP_LOCATION: /usr/share/nginx/html
 COMPONENT: frontend
